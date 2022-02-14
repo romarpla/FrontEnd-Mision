@@ -5,13 +5,12 @@ Bienvenido Explorer, estas entrando a tu misión en el camino a convertirte en u
 En este módulo veremos las siguientes cosas.
 
 1. **Programación FrontEnd**
-    - ¿Qué es la programación FRONTEND?
-	- ¿Para que sirve la programación FRONTEND?
-	- En qué consiste la programación FRONTEND
-	- Tecnologías aplicadas
-	- SETUP de programación Web
-	- Estructura de páginas web
-	- Estructura y limpieza de código
+    - [¿Qué es la programación FRONTEND?](./temario/queEsFrontEnd.md)
+	- [¿Para que sirve la programación FRONTEND?](./temario/paraQueFrontEnd.md)
+	- [Tecnologías aplicadas](./temario/frontEndTecs.md)
+	- [SETUP de programación Web](./temario/webDevSetup.md)
+	- [Estructura de páginas web](./temario/estructuraWeb.md)
+	- [Estructura y limpieza de código](./temario/estructuraCodigo.md)
 
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
 
