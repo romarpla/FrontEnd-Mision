@@ -5,11 +5,11 @@ Bienvenido Explorer, estas entrando a tu misión en el camino a convertirte en u
 En este módulo veremos las siguientes cosas.
 
 1. **Programación FrontEnd**
-    - [¿Qué es la programación FRONTEND?](./temario/queEsFrontEnd.md)
-	- [Tecnologías aplicadas](./temario/frontEndTecs.md)
-	- [SETUP de programación Web](./temario/webDevSetup.md)
-	- [Estructura de páginas web](./temario/estructuraWeb.md)
-	- [Estructura y limpieza de código](./temario/estructuraCodigo.md)
+    - [¿Qué es la programación FRONTEND?](./temario/1.-queEsFrontEnd.md)
+	- [Tecnologías aplicadas](./temario/2.-frontEndTecs.md)
+	- [SETUP de programación Web](./temario/3.-webDevSetup.md)
+	- [Estructura de páginas web](./temario/4.-estructuraWeb.md)
+	- [Estructura y limpieza de código](./temario/5.-estructuraCodigo.md)
 
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
 
