@@ -6,7 +6,6 @@ En este módulo veremos las siguientes cosas.
 
 1. **Programación FrontEnd**
     - [¿Qué es la programación FRONTEND?](./temario/queEsFrontEnd.md)
-	- [¿Para que sirve la programación FRONTEND?](./temario/paraQueFrontEnd.md)
 	- [Tecnologías aplicadas](./temario/frontEndTecs.md)
 	- [SETUP de programación Web](./temario/webDevSetup.md)
 	- [Estructura de páginas web](./temario/estructuraWeb.md)

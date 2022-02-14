@@ -34,3 +34,5 @@ A lo que se refiere MVC es a la separación de la interfaz de usuario (Vista) de
 Así como este patrón de diseño arquitectónico existen algunos otros como **MVVM, MVP, RMR** y se recomienda que utilices el que sea mejor para tu aplicación.
 
 Eso es todo por esta lección, nos vemos en la [siguiente](./frontEndTecs.md).
+
+***¡Vámonos hasta el espacio y más allá Explorers!***
