@@ -1,6 +1,6 @@
 # Introducción a la programación FrontEnd
 
-Bienvenido Explorer, estas entrando a tu misión en el camino a convertirte en un FullStack Developer, empezaremos con la parte del FrontEnd, en donde verás toda la magia de las interfaces, las interacciones y todo lo increíble que puedes construir con un teclado y unas cuantas líneas de código.
+Bienvenido Explorer, estas entrando a tu misión en este camino para convertirte en un FullStack Developer; empezaremos con la parte del FrontEnd, en donde verás toda la magia de las interfaces, las interacciones y todo lo increíble que puedes construir con un teclado y unas cuantas líneas de código.
 
 En este módulo veremos las siguientes cosas.
 
