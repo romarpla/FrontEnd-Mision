@@ -14,7 +14,7 @@ En esta misión veremos la mágia de cómo funcionan las aplicaciones y es tu in
 
 El curso tiene 8 módulos que tienen dentro varios subtemas que iremos viendo conforme avance el curso
 
-1. [Programación FrontEnd](./01 - INTRO)
+1. [Programación FrontEnd](https://github.com/romarpla/FrontEnd-Mision/tree/main/01%20-%20INTRO)
     - ¿Qué es la programación FRONTEND?
 	- ¿Para que sirve la programación FRONTEND?
 	- En qué consiste la programación FRONTEND
@@ -23,7 +23,7 @@ El curso tiene 8 módulos que tienen dentro varios subtemas que iremos viendo co
 	- Estructura de páginas web
 	- Estructura y limpieza de código
 
-2. [HTML](./02 - HTML/)
+2. [HTML](https://github.com/romarpla/FrontEnd-Mision/tree/main/02%20-%20HTML)
     - ¿Qué es HTML?
 	- Estructura de archivo HTML
 	- Sintaxis de etiquetas
@@ -44,7 +44,7 @@ El curso tiene 8 módulos que tienen dentro varios subtemas que iremos viendo co
 	- Propiedades de etiquetas / Properties
 	- Práctica de HTML
 
-3. CSS
+3. [CSS](https://github.com/romarpla/FrontEnd-Mision/tree/main/03%20-%20CSS)
     - ¿Qué es CSS?
 	- Selectores / Selector
 	- Colores
@@ -59,7 +59,7 @@ El curso tiene 8 módulos que tienen dentro varios subtemas que iremos viendo co
 	- Librerías de CSS
 	- Práctica de CSS
 
-4. JavaScript
+4. [JavaScript](https://github.com/romarpla/FrontEnd-Mision/tree/main/04%20-%20JS)
     - ¿Qué es JS?
 	- Variables, tipos y operadores
 	- Estructura de programación
@@ -75,7 +75,7 @@ El curso tiene 8 módulos que tienen dentro varios subtemas que iremos viendo co
 	- Librerías y paquetes de JS
 	- Práctica de JS
 
-5. Vue JS
+5. [Vue JS](https://github.com/romarpla/FrontEnd-Mision/tree/main/05%20-%20VUEJS)
     - ¿Qué es VueJS?
 	- Setup de VueJS
 	- Estructura de archivos y proyecto
@@ -87,7 +87,7 @@ El curso tiene 8 módulos que tienen dentro varios subtemas que iremos viendo co
 	- JSON Server
 	- Práctica de Vue
 
-6. VUEX
+6. [VUEX](https://github.com/romarpla/FrontEnd-Mision/tree/main/06%20-%20VUEX)
     - ¿Qué es VUEX?
 	- Patrón de manejo de estado
 	- Setup
@@ -98,7 +98,7 @@ El curso tiene 8 módulos que tienen dentro varios subtemas que iremos viendo co
 	- Módulos
 	- Práctica VUEX
 
-7. Angular
+7. [Angular](https://github.com/romarpla/FrontEnd-Mision/tree/main/07%20-%20ANGULAR)
     - ¿Qué es Angular?
 	- Prerequisitos y setup
 	- Componentes
@@ -109,7 +109,7 @@ El curso tiene 8 módulos que tienen dentro varios subtemas que iremos viendo co
 	- Práctica de Angular
 	- Despliegue de aplicación
 
-8. Azure
+8. [Azure](https://github.com/romarpla/FrontEnd-Mision/tree/main/08%20-%20AZURE)
     - Azure Static Web App
 	- Setup
 	- Github Actions
