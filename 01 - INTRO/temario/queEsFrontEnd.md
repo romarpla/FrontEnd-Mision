@@ -12,4 +12,4 @@ Esta es la parte que se visualiza en el navegador y es la que manda toda la info
 
 ![Frontend site](../images/qefe1.gif)
 
-<img src="../images/qefe1.gif" style="max-width:300px;">
+<img src="../images/qefe1.gif" alt="FrontEnd" height="300">
