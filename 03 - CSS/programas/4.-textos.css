@@ -1,0 +1,57 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.izquierda{
+    text-align: left;
+}
+
+.derecha{
+    text-align: right;
+}
+
+.centrado{
+    text-align: center;
+}
+
+.justificado{
+    text-align: justify;
+}
+
+.alReves{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+
+.decoradoOverline{
+    text-decoration-line: overline;
+}
+
+.decoradoLineThrough{
+    text-decoration-line: line-through;
+}
+
+.decoradoUnderline{
+    text-decoration-line: underline;
+}
+
+.decoradoCombinado{
+    text-decoration-line: underline;
+    text-decoration-color: red;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 5px;
+}
+
+.negritas{
+    font-weight: 700;
+}
+
+.ligeras{
+    font-weight: 100;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+    
+}
