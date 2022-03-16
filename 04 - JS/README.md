@@ -1,6 +1,6 @@
-# CSS
+# JS
 
-## Aquí le ponemos estilo a todas nuestras páginas
+## Aquí haremos que nuestras páginas tengan funcionalidad
 
 Les dejé unos programas con los ejemplos que estuvimos viendo en los diferentes lives.
 
