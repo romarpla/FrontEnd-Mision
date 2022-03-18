@@ -4,8 +4,12 @@ Vue es uno de los frameworks top 3 que nos permiten hacer que nuestras plataform
 
 ## Programas
 
-- [Vue desde CDN](./programas/app.js)
-- Vue con CLI y VUEX
-- Angular
+- [Vue desde CDN](./programas/CDN/app.js)
+- [Vue con CLI](./programas/CLI/App.vue)
+- [VUEX](./programas/VUEX/App.vue)
 
 Estos son los programas con los ejemplos que estuvimos viendo en los diferentes lives.
+
+## Práctica
+
+[Este es el link de la práctica](./practica/README.md)

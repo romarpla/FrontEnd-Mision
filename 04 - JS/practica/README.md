@@ -1,4 +1,4 @@
-# Práctica CSS
+# Práctica JS
 
 Que onda explorers!
 
